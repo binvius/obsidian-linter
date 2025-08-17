@@ -1,1 +1,0 @@
-This file should be ignored since it should match the ignore file name check.

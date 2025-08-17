@@ -1,5 +1,0 @@
----
-key: value
----
-
-No blank
